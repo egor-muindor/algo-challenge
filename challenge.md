@@ -4,7 +4,7 @@
 
 | Date       | Title             | Submission link                                            |
 |:-----------|:------------------|:-----------------------------------------------------------|
-| 2020-10-02 | Valid Parentheses | [Link](https://leetcode.com/submissions/detail/403508953/) |
+| 2020-10-02 | 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link](https://leetcode.com/submissions/detail/403508953/) |
 |            |                   |                                                            |
 |            |                   |                                                            |
 |            |                   |                                                            |
