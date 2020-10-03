@@ -1,11 +1,11 @@
-### Flip Equivalent Binary Trees
+# Flip Equivalent Binary Trees
 
 - [Description](#description)
 - [Solution code](#solution-code)
 - [Submission Detail](#submission-detail)
 - [Links](#links)
 
-#### Description
+## Description
 
 <div><p>For a binary tree <strong>T</strong>, we can define a <strong>flip operation</strong> as follows: choose any node, and swap the left and right child subtrees.</p>
 
@@ -54,7 +54,7 @@
 </ul>
 </div>
 
-#### Solution code
+## Solution code
 
 ```go
 package main
@@ -77,7 +77,7 @@ func flipEquiv(root1 *TreeNode, root2 *TreeNode,) bool {
 }
 ```
 
-#### Submission Detail
+## Submission Detail
 
 ```
 76 / 76 test cases passed.
@@ -86,7 +86,7 @@ Runtime: 0 ms
 Memory Usage: 2.5 MB
 ```
 
-#### Links
+## Links
 
 - [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/)
 - [Submission](https://leetcode.com/submissions/detail/403819727/)

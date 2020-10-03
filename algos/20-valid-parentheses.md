@@ -1,11 +1,11 @@
-### Valid Parentheses
+# Valid Parentheses
 
 - [Description](#description)
 - [Solution code](#solution-code)
 - [Submission Detail](#submission-detail)
 - [Links](#links)
 
-#### Description
+## Description
 
 <div><p>Given a string <code>s</code> containing just the characters <code>'('</code>, <code>')'</code>, <code>'{'</code>, <code>'}'</code>, <code>'['</code> and <code>']'</code>, determine if the input string is valid.</p>
 
@@ -56,7 +56,7 @@
 </ul>
 </div>
 
-#### Solution code
+## Solution code
 
 ```go
 package main
@@ -112,7 +112,7 @@ func isValid(str string) bool {
 }
 ```
 
-#### Submission Detail
+## Submission Detail
 
 ```
 91 / 91 test cases passed.
@@ -121,7 +121,7 @@ Runtime: 0 ms
 Memory Usage: 2 MB
 ```
 
-#### Links
+## Links
 
 - [Problem](https://leetcode.com/problems/valid-parentheses/)
 - [Submission](https://leetcode.com/submissions/detail/403508953/)

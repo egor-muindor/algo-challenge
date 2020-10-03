@@ -1,22 +1,22 @@
-### {PROBLEM-TITLE}
+# {PROBLEM-TITLE}
 
 - [Description](#description)
 - [Solution code](#solution-code)
 - [Submission Detail](#submission-detail)
 - [Links](#links)
 
-#### Description
+## Description
 
 {desc}
 
-#### Solution code
+## Solution code
 
 ```go
 package main
 
 ```
 
-#### Submission Detail
+## Submission Detail
 
 ```
 00 / 00 test cases passed.
@@ -25,7 +25,7 @@ Runtime: 0 ms
 Memory Usage: 0 MB
 ```
 
-#### Links
+## Links
 
 - [Problem]()
 - [Submission]()
