@@ -11,11 +11,7 @@ Leetcode/Codewars.
 | 2020-10-05 | 1. [Two sum][1-problem]                                        | [Link][1-submission]   | [Link][1-code]   |
 | 2020-10-06 | 35. [Search insert position][35-problem]                       | [Link][35-submission]  | [Link][35-code]  |
 | 2020-10-07 | 4. [Median of Two Sorted Arrays][4-problem]                    | [Link][4-submission]   | [Link][4-code]   |
-|            |                                                                |                        |                  |
-|            |                                                                |                        |                  |
-|            |                                                                |                        |                  |
-|            |                                                                |                        |                  |
-|            |                                                                |                        |                  |
+| 2020-10-08 | 27. [Remove Element][27-problem]                               | [Link][27-submission]  | [Link][27-code]  |
 
 [20-problem]:https://leetcode.com/problems/valid-parentheses/
 [951-problem]:https://leetcode.com/problems/flip-equivalent-binary-trees/
@@ -23,6 +19,7 @@ Leetcode/Codewars.
 [1-problem]:https://leetcode.com/problems/two-sum/
 [35-problem]:https://leetcode.com/problems/search-insert-position/
 [4-problem]:https://leetcode.com/problems/median-of-two-sorted-arrays/
+[27-problem]:https://leetcode.com/problems/remove-element/
 
 [20-submission]:https://leetcode.com/submissions/detail/403508953/
 [951-submission]:https://leetcode.com/submissions/detail/403819727/
@@ -30,6 +27,7 @@ Leetcode/Codewars.
 [1-submission]:https://leetcode.com/submissions/detail/404748386/
 [35-submission]:https://leetcode.com/submissions/detail/405378075/
 [4-submission]:https://leetcode.com/submissions/detail/405748594/
+[27-submission]:https://leetcode.com/submissions/detail/406079718/
 
 [20-code]:algos/0020-valid-parentheses.md
 [951-code]:algos/0951-flip-equivalent-binary-trees.md
@@ -37,3 +35,4 @@ Leetcode/Codewars.
 [1-code]:algos/0001-two-sum.md
 [35-code]:algos/0035-search-insert-position.md
 [4-code]:algos/0004-median-of-two-sorted-arrays.md
+[27-code]:algos/0027-remove-element.md
