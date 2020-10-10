@@ -13,6 +13,7 @@ Leetcode/Codewars.
 | 2020-10-07 | 4. [Median of Two Sorted Arrays][4-problem]                    | [Link][4-submission]   | [Link][4-code]   |
 | 2020-10-08 | 27. [Remove Element][27-problem]                               | [Link][27-submission]  | [Link][27-code]  |
 | 2020-10-09 | 28. [Implement strStr()][28-problem]                           | [Link][28-submission]  | [Link][28-code]  |
+| 2020-10-10 | 14. [Implement strStr()][14-problem]                           | [Link][14-submission]  | [Link][14-code]  |
 
 [20-problem]:https://leetcode.com/problems/valid-parentheses/
 [951-problem]:https://leetcode.com/problems/flip-equivalent-binary-trees/
@@ -22,6 +23,7 @@ Leetcode/Codewars.
 [4-problem]:https://leetcode.com/problems/median-of-two-sorted-arrays/
 [27-problem]:https://leetcode.com/problems/remove-element/
 [28-problem]:https://leetcode.com/problems/implement-strstr/
+[14-problem]:https://leetcode.com/problems/longest-common-prefix/
 
 [20-submission]:https://leetcode.com/submissions/detail/403508953/
 [951-submission]:https://leetcode.com/submissions/detail/403819727/
@@ -31,6 +33,7 @@ Leetcode/Codewars.
 [4-submission]:https://leetcode.com/submissions/detail/405748594/
 [27-submission]:https://leetcode.com/submissions/detail/406079718/
 [28-submission]:https://leetcode.com/submissions/detail/406475041/
+[14-submission]:https://leetcode.com/submissions/detail/406975010/
 
 [20-code]:algos/0020-valid-parentheses.md
 [951-code]:algos/0951-flip-equivalent-binary-trees.md
@@ -40,4 +43,5 @@ Leetcode/Codewars.
 [4-code]:algos/0004-median-of-two-sorted-arrays.md
 [27-code]:algos/0027-remove-element.md
 [28-code]:algos/0028-implement-strstr.md
+[14-code]:algos/0014-longest-common-prefix.md
 
