@@ -15,6 +15,7 @@ Leetcode/Codewars.
 | 2020-10-09 | 28. [Implement strStr()][28-problem]                           | [Link][28-submission]  | [Link][28-code]  |
 | 2020-10-10 | 14. [Implement strStr()][14-problem]                           | [Link][14-submission]  | [Link][14-code]  |
 | 2020-10-11 | 21. [Merge Two Sorted Lists][21-problem]                       | [Link][21-submission]  | [Link][21-code]  |
+| 2020-10-12 | 58. [Length of Last Word][58-problem]                          | [Link][58-submission]  | [Link][58-code]   |
 
 [20-problem]:https://leetcode.com/problems/valid-parentheses/
 [951-problem]:https://leetcode.com/problems/flip-equivalent-binary-trees/
@@ -26,6 +27,7 @@ Leetcode/Codewars.
 [28-problem]:https://leetcode.com/problems/implement-strstr/
 [14-problem]:https://leetcode.com/problems/longest-common-prefix/
 [21-problem]:https://leetcode.com/problems/merge-two-sorted-lists/
+[58-problem]:https://leetcode.com/problems/length-of-last-word/
 
 [20-submission]:https://leetcode.com/submissions/detail/403508953/
 [951-submission]:https://leetcode.com/submissions/detail/403819727/
@@ -37,6 +39,7 @@ Leetcode/Codewars.
 [28-submission]:https://leetcode.com/submissions/detail/406475041/
 [14-submission]:https://leetcode.com/submissions/detail/406975010/
 [21-submission]:https://leetcode.com/submissions/detail/407292634/
+[58-submission]:https://leetcode.com/submissions/detail/407730153/
 
 [20-code]:algos/0020-valid-parentheses.md
 [951-code]:algos/0951-flip-equivalent-binary-trees.md
@@ -48,4 +51,4 @@ Leetcode/Codewars.
 [28-code]:algos/0028-implement-strstr.md
 [14-code]:algos/0014-longest-common-prefix.md
 [21-code]:algos/0021-merge-two-sorted-lists.md
-
+[58-code]:algos/0058-length-of-last-word.md
