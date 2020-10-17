@@ -19,7 +19,8 @@ Leetcode/Codewars.
 | 2020-10-13 | 231. [Power of Two][231-problem]                               | [Link][231-submission] | [Link][231-code] |
 | 2020-10-14 | 125. [Valid Palindrome][125-problem]                           | [Link][125-submission] | [Link][125-code] |
 | 2020-10-15 | 202. [Happy Number][202-problem]                               | [Link][202-submission] | [Link][202-code] |
-| 2020-10-15 | 852. [Peak Index in a Mountain Array][852-problem]             | [Link][852-submission] | [Link][852-code] |
+| 2020-10-16 | 852. [Peak Index in a Mountain Array][852-problem]             | [Link][852-submission] | [Link][852-code] |
+| 2020-10-17 | 728. [Self Dividing Numbers][728-problem]                      | [Link][728-submission] | [Link][728-code] |
 
 [20-problem]:https://leetcode.com/problems/valid-parentheses/
 [951-problem]:https://leetcode.com/problems/flip-equivalent-binary-trees/
@@ -36,6 +37,7 @@ Leetcode/Codewars.
 [125-problem]:https://leetcode.com/problems/valid-palindrome/
 [202-problem]:https://leetcode.com/problems/happy-number/
 [852-problem]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
+[728-problem]:https://leetcode.com/problems/self-dividing-numbers/
 
 [20-submission]:https://leetcode.com/submissions/detail/403508953/
 [951-submission]:https://leetcode.com/submissions/detail/403819727/
@@ -52,6 +54,7 @@ Leetcode/Codewars.
 [125-submission]:https://leetcode.com/submissions/detail/408585715/
 [202-submission]:https://leetcode.com/submissions/detail/409012140/
 [852-submission]:https://leetcode.com/submissions/detail/409365278/
+[728-submission]:https://leetcode.com/submissions/detail/409720263/
 
 [20-code]:algos/0020-valid-parentheses.md
 [951-code]:algos/0951-flip-equivalent-binary-trees.md
@@ -68,3 +71,4 @@ Leetcode/Codewars.
 [125-code]:algos/0125-valid-palindrome.md
 [202-code]:algos/0202-happy-number.md
 [852-code]:algos/0852-peak-index-in-a-mountain-array.md
+[728-code]:algos/0728-self-dividing-numbers.md
