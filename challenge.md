@@ -13,7 +13,7 @@ Leetcode/Codewars.
 | 2020-10-07 | 4. [Median of Two Sorted Arrays][4-problem]                    | [Link][4-submission]   | [Link][4-code]   |
 | 2020-10-08 | 27. [Remove Element][27-problem]                               | [Link][27-submission]  | [Link][27-code]  |
 | 2020-10-09 | 28. [Implement strStr()][28-problem]                           | [Link][28-submission]  | [Link][28-code]  |
-| 2020-10-10 | 14. [Implement strStr()][14-problem]                           | [Link][14-submission]  | [Link][14-code]  |
+| 2020-10-10 | 14. [Longest Common Prefix][14-problem]                        | [Link][14-submission]  | [Link][14-code]  |
 | 2020-10-11 | 21. [Merge Two Sorted Lists][21-problem]                       | [Link][21-submission]  | [Link][21-code]  |
 | 2020-10-12 | 58. [Length of Last Word][58-problem]                          | [Link][58-submission]  | [Link][58-code]  |
 | 2020-10-13 | 231. [Power of Two][231-problem]                               | [Link][231-submission] | [Link][231-code] |
@@ -21,6 +21,7 @@ Leetcode/Codewars.
 | 2020-10-15 | 202. [Happy Number][202-problem]                               | [Link][202-submission] | [Link][202-code] |
 | 2020-10-16 | 852. [Peak Index in a Mountain Array][852-problem]             | [Link][852-submission] | [Link][852-code] |
 | 2020-10-17 | 728. [Self Dividing Numbers][728-problem]                      | [Link][728-submission] | [Link][728-code] |
+| 2020-10-18 | 204. [Count Primes][204-problem]                               | [Link][204-submission] | [Link][204-code] |
 
 [20-problem]:https://leetcode.com/problems/valid-parentheses/
 [951-problem]:https://leetcode.com/problems/flip-equivalent-binary-trees/
@@ -38,6 +39,7 @@ Leetcode/Codewars.
 [202-problem]:https://leetcode.com/problems/happy-number/
 [852-problem]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [728-problem]:https://leetcode.com/problems/self-dividing-numbers/
+[204-problem]:https://leetcode.com/problems/count-primes/
 
 [20-submission]:https://leetcode.com/submissions/detail/403508953/
 [951-submission]:https://leetcode.com/submissions/detail/403819727/
@@ -55,6 +57,7 @@ Leetcode/Codewars.
 [202-submission]:https://leetcode.com/submissions/detail/409012140/
 [852-submission]:https://leetcode.com/submissions/detail/409365278/
 [728-submission]:https://leetcode.com/submissions/detail/409720263/
+[204-submission]:https://leetcode.com/submissions/detail/410179848/
 
 [20-code]:algos/0020-valid-parentheses.md
 [951-code]:algos/0951-flip-equivalent-binary-trees.md
@@ -72,3 +75,4 @@ Leetcode/Codewars.
 [202-code]:algos/0202-happy-number.md
 [852-code]:algos/0852-peak-index-in-a-mountain-array.md
 [728-code]:algos/0728-self-dividing-numbers.md
+[204-code]:algos/0204-count-primes.md
