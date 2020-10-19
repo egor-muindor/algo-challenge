@@ -22,6 +22,7 @@ Leetcode/Codewars.
 | 2020-10-16 | 852. [Peak Index in a Mountain Array][852-problem]             | [Link][852-submission] | [Link][852-code] |
 | 2020-10-17 | 728. [Self Dividing Numbers][728-problem]                      | [Link][728-submission] | [Link][728-code] |
 | 2020-10-18 | 204. [Count Primes][204-problem]                               | [Link][204-submission] | [Link][204-code] |
+| 2020-10-19 | 50. [Pow(x, n)][50-problem]                                    | [Link][50-submission]  | [Link][50-code]   |
 
 [20-problem]:https://leetcode.com/problems/valid-parentheses/
 [951-problem]:https://leetcode.com/problems/flip-equivalent-binary-trees/
@@ -40,6 +41,7 @@ Leetcode/Codewars.
 [852-problem]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [728-problem]:https://leetcode.com/problems/self-dividing-numbers/
 [204-problem]:https://leetcode.com/problems/count-primes/
+[50-problem]:https://leetcode.com/problems/powx-n/
 
 [20-submission]:https://leetcode.com/submissions/detail/403508953/
 [951-submission]:https://leetcode.com/submissions/detail/403819727/
@@ -58,6 +60,7 @@ Leetcode/Codewars.
 [852-submission]:https://leetcode.com/submissions/detail/409365278/
 [728-submission]:https://leetcode.com/submissions/detail/409720263/
 [204-submission]:https://leetcode.com/submissions/detail/410179848/
+[50-submission]:https://leetcode.com/submissions/detail/410567603/
 
 [20-code]:algos/0020-valid-parentheses.md
 [951-code]:algos/0951-flip-equivalent-binary-trees.md
@@ -76,3 +79,4 @@ Leetcode/Codewars.
 [852-code]:algos/0852-peak-index-in-a-mountain-array.md
 [728-code]:algos/0728-self-dividing-numbers.md
 [204-code]:algos/0204-count-primes.md
+[50-code]:algos/0050-powx-n.md
