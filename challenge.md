@@ -3,27 +3,29 @@
 Каждый день нужно писать один новый алгоритм, решая одну из задач на
 Leetcode/Codewars.
 
-| Date       | Title                                                          | Submission link        | Code             |
-|:-----------|:---------------------------------------------------------------|:-----------------------|:-----------------|
-| 2020-10-02 | 20. [Valid Parentheses][20-problem]                            | [Link][20-submission]  | [Link][20-code]  |
-| 2020-10-03 | 951. [Flip Equivalent Binary Trees][951-problem]               | [Link][951-submission] | [Link][951-code] |
-| 2020-10-04 | 3. [Longest Substring Without Repeating Characters][3-problem] | [Link][3-submission]   | [Link][3-code]   |
-| 2020-10-05 | 1. [Two sum][1-problem]                                        | [Link][1-submission]   | [Link][1-code]   |
-| 2020-10-06 | 35. [Search insert position][35-problem]                       | [Link][35-submission]  | [Link][35-code]  |
-| 2020-10-07 | 4. [Median of Two Sorted Arrays][4-problem]                    | [Link][4-submission]   | [Link][4-code]   |
-| 2020-10-08 | 27. [Remove Element][27-problem]                               | [Link][27-submission]  | [Link][27-code]  |
-| 2020-10-09 | 28. [Implement strStr()][28-problem]                           | [Link][28-submission]  | [Link][28-code]  |
-| 2020-10-10 | 14. [Longest Common Prefix][14-problem]                        | [Link][14-submission]  | [Link][14-code]  |
-| 2020-10-11 | 21. [Merge Two Sorted Lists][21-problem]                       | [Link][21-submission]  | [Link][21-code]  |
-| 2020-10-12 | 58. [Length of Last Word][58-problem]                          | [Link][58-submission]  | [Link][58-code]  |
-| 2020-10-13 | 231. [Power of Two][231-problem]                               | [Link][231-submission] | [Link][231-code] |
-| 2020-10-14 | 125. [Valid Palindrome][125-problem]                           | [Link][125-submission] | [Link][125-code] |
-| 2020-10-15 | 202. [Happy Number][202-problem]                               | [Link][202-submission] | [Link][202-code] |
-| 2020-10-16 | 852. [Peak Index in a Mountain Array][852-problem]             | [Link][852-submission] | [Link][852-code] |
-| 2020-10-17 | 728. [Self Dividing Numbers][728-problem]                      | [Link][728-submission] | [Link][728-code] |
-| 2020-10-18 | 204. [Count Primes][204-problem]                               | [Link][204-submission] | [Link][204-code] |
-| 2020-10-19 | 50. [Pow(x, n)][50-problem]                                    | [Link][50-submission]  | [Link][50-code]  |
-| 2020-10-20 | 78. [Subsets][78-problem]                                      | [Link][78-submission]  | [Link][78-code]  |
+| Date       | Title                                                          | Code              |
+|:-----------|:---------------------------------------------------------------|:------------------|
+| 2020-10-02 | 20. [Valid Parentheses][20-problem]                            | [Link][20-code]   |
+| 2020-10-03 | 951. [Flip Equivalent Binary Trees][951-problem]               | [Link][951-code]  |
+| 2020-10-04 | 3. [Longest Substring Without Repeating Characters][3-problem] | [Link][3-code]    |
+| 2020-10-05 | 1. [Two sum][1-problem]                                        | [Link][1-code]    |
+| 2020-10-06 | 35. [Search insert position][35-problem]                       | [Link][35-code]   |
+| 2020-10-07 | 4. [Median of Two Sorted Arrays][4-problem]                    | [Link][4-code]    |
+| 2020-10-08 | 27. [Remove Element][27-problem]                               | [Link][27-code]   |
+| 2020-10-09 | 28. [Implement strStr()][28-problem]                           | [Link][28-code]   |
+| 2020-10-10 | 14. [Longest Common Prefix][14-problem]                        | [Link][14-code]   |
+| 2020-10-11 | 21. [Merge Two Sorted Lists][21-problem]                       | [Link][21-code]   |
+| 2020-10-12 | 58. [Length of Last Word][58-problem]                          | [Link][58-code]   |
+| 2020-10-13 | 231. [Power of Two][231-problem]                               | [Link][231-code]  |
+| 2020-10-14 | 125. [Valid Palindrome][125-problem]                           | [Link][125-code]  |
+| 2020-10-15 | 202. [Happy Number][202-problem]                               | [Link][202-code]  |
+| 2020-10-16 | 852. [Peak Index in a Mountain Array][852-problem]             | [Link][852-code]  |
+| 2020-10-17 | 728. [Self Dividing Numbers][728-problem]                      | [Link][728-code]  |
+| 2020-10-18 | 204. [Count Primes][204-problem]                               | [Link][204-code]  |
+| 2020-10-19 | 50. [Pow(x, n)][50-problem]                                    | [Link][50-code]   |
+| 2020-10-20 | 78. [Subsets][78-problem]                                      | [Link][78-code]   |
+| 2022-11-26 | 724. [Find Pivot Index][724-problem]                           | [Link][724-code]  |
+| 2022-11-26 | 1480. [Running Sum of 1d Array][1480-problem]                  | [Link][1480-code] |
 
 [20-problem]:https://leetcode.com/problems/valid-parentheses/
 [951-problem]:https://leetcode.com/problems/flip-equivalent-binary-trees/
@@ -44,26 +46,8 @@ Leetcode/Codewars.
 [204-problem]:https://leetcode.com/problems/count-primes/
 [50-problem]:https://leetcode.com/problems/powx-n/
 [78-problem]:https://leetcode.com/problems/subsets/
-
-[20-submission]:https://leetcode.com/submissions/detail/403508953/
-[951-submission]:https://leetcode.com/submissions/detail/403819727/
-[3-submission]:https://leetcode.com/submissions/detail/404311136/
-[1-submission]:https://leetcode.com/submissions/detail/404748386/
-[35-submission]:https://leetcode.com/submissions/detail/405378075/
-[4-submission]:https://leetcode.com/submissions/detail/405748594/
-[27-submission]:https://leetcode.com/submissions/detail/406079718/
-[28-submission]:https://leetcode.com/submissions/detail/406475041/
-[14-submission]:https://leetcode.com/submissions/detail/406975010/
-[21-submission]:https://leetcode.com/submissions/detail/407292634/
-[58-submission]:https://leetcode.com/submissions/detail/407730153/
-[231-submission]:https://leetcode.com/submissions/detail/408137472/
-[125-submission]:https://leetcode.com/submissions/detail/408585715/
-[202-submission]:https://leetcode.com/submissions/detail/409012140/
-[852-submission]:https://leetcode.com/submissions/detail/409365278/
-[728-submission]:https://leetcode.com/submissions/detail/409720263/
-[204-submission]:https://leetcode.com/submissions/detail/410179848/
-[50-submission]:https://leetcode.com/submissions/detail/410567603/
-[78-submission]:https://leetcode.com/submissions/detail/410959533/
+[724-problem]:https://leetcode.com/problems/find-pivot-index/
+[1480-problem]:https://leetcode.com/problems/find-pivot-index/
 
 [20-code]:algos/0020-valid-parentheses.md
 [951-code]:algos/0951-flip-equivalent-binary-trees.md
@@ -84,3 +68,5 @@ Leetcode/Codewars.
 [204-code]:algos/0204-count-primes.md
 [50-code]:algos/0050-powx-n.md
 [78-code]:algos/0078-subsets.md
+[724-code]:algos/0724-find-pivot-index.md
+[1480-code]:algos/1480-running-sum-of-1d-array.md
